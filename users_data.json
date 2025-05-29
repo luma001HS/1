@@ -1,0 +1,212 @@
+{
+  "7646557774": {
+    "coins": 89,
+    "inventory": {
+      "Nick & Johnny": {
+        "Эпический": 4
+      },
+      "General": {
+        "Обычный": 1
+      },
+      "Lundgrens": {
+        "Обычный": 1
+      },
+      "Ettan": {
+        "Обычный": 1
+      },
+      "Thunder": {
+        "Обычный": 1
+      },
+      "Prima Fint": {
+        "Редкий": 1
+      },
+      "Göteborgs Rapé": {
+        "Необычный": 1
+      },
+      "Siberia": {
+        "Необычный": 1
+      }
+    },
+    "last_free_snus": "2025-05-29 10:51:03.677242",
+    "last_coin_farm": "2025-05-29 10:51:00.085894",
+    "total_free_snus": 8,
+    "active_trades": [],
+    "daily_bonus_streak": 1,
+    "last_daily_bonus": "2025-05-28 17:00:19.503228",
+    "total_roulette_games": 53,
+    "roulette_wins": 25
+  },
+  "8122435242": {
+    "coins": 0,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": null,
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 0,
+    "roulette_wins": 0
+  },
+  "6731540371": {
+    "coins": 1802,
+    "inventory": {
+      "Göteborgs Rapé": {
+        "Обычный": 1
+      },
+      "General": {
+        "Необычный": 1
+      },
+      "Kronan": {
+        "Обычный": 1
+      },
+      "FAME snus ": {
+        "Легендарный": 1
+      }
+    },
+    "last_free_snus": "2025-05-29 09:31:14.127609",
+    "last_coin_farm": "2025-05-29 11:18:45.285244",
+    "total_free_snus": 4,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 4,
+    "roulette_wins": 3
+  },
+  "855396348": {
+    "coins": 13,
+    "inventory": {
+      "Catch": {
+        "Необычный": 1
+      },
+      "Granit": {
+        "Обычный": 1
+      }
+    },
+    "last_free_snus": "2025-05-28 23:07:50.477180",
+    "last_coin_farm": "2025-05-28 23:18:08.842606",
+    "total_free_snus": 2,
+    "active_trades": [],
+    "daily_bonus_streak": 1,
+    "last_daily_bonus": "2025-05-28 18:00:08.582848",
+    "total_roulette_games": 9,
+    "roulette_wins": 6
+  },
+  "1665586004": {
+    "coins": 0,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": null,
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 0,
+    "roulette_wins": 0
+  },
+  "996972768": {
+    "coins": 1829,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": "2025-05-29 10:30:35.153646",
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 9,
+    "roulette_wins": 7
+  },
+  "1625379363": {
+    "coins": 241,
+    "inventory": {
+      "Kronan": {
+        "Редкий": 1
+      },
+      "Göteborgs Rapé": {
+        "Обычный": 1
+      }
+    },
+    "last_free_snus": "2025-05-28 23:07:50.478930",
+    "last_coin_farm": "2025-05-29 11:00:46.046799",
+    "total_free_snus": 2,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 8,
+    "roulette_wins": 5
+  },
+  "1676194696": {
+    "coins": 759,
+    "inventory": {
+      "Telegram snusEttan": {
+        "Необычный": 1
+      },
+      "Kronan": {
+        "Обычный": 1
+      }
+    },
+    "last_free_snus": "2025-05-29 10:53:12.017756",
+    "last_coin_farm": "2025-05-29 10:52:42.719995",
+    "total_free_snus": 2,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 2,
+    "roulette_wins": 1
+  },
+  "6454736071": {
+    "coins": 339,
+    "inventory": {
+      "swag snus": {
+        "Обычный": 1
+      },
+      "FAME snus ": {
+        "Эпический": 1
+      }
+    },
+    "last_free_snus": "2025-05-29 10:49:48.335277",
+    "last_coin_farm": "2025-05-29 10:49:54.730773",
+    "total_free_snus": 2,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 7,
+    "roulette_wins": 3
+  },
+  "1497408793": {
+    "coins": 0,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": null,
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 0,
+    "roulette_wins": 0
+  },
+  "1023298857": {
+    "coins": 43,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": "2025-05-29 11:01:54.538275",
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 1,
+    "roulette_wins": 0
+  },
+  "1948606657": {
+    "coins": 0,
+    "inventory": {},
+    "last_free_snus": null,
+    "last_coin_farm": null,
+    "total_free_snus": 0,
+    "active_trades": [],
+    "daily_bonus_streak": 0,
+    "last_daily_bonus": null,
+    "total_roulette_games": 0,
+    "roulette_wins": 0
+  }
+}
